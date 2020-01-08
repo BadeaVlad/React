@@ -1,0 +1,67 @@
+.btn {
+    float: right;
+    padding: 0px;
+    background-repeat: no-repeat;
+    margin: auto;
+    background-color: transparent;
+}
+
+.btn-28 {
+    width: 100%;
+    height: 100%;
+}
+
+.btn-22 {
+    width: 100%;
+    height: 100%;
+}
+
+.btn-save {
+    background-image: url(../icons/icn-save.svg);
+}
+
+.btn-menu {
+    background-image: url(../icons/icn-menu.svg);
+}
+
+.btn-delete {
+    background-image: url(../icons/icn-delete.svg);
+}
+
+.btn-container {
+    border-radius: 10%;
+    background-color: rgb(255, 255, 255);
+    border-color: cornflowerblue;
+    color: cornflowerblue;
+}
+
+.btn-container-square {
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    width: fit-content;
+    border-color: cornflowerblue;
+    color: cornflowerblue;
+    border-radius: 10%;
+}
+
+.btn-container-square2 {
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    width: fit-content;
+    border-color: crimson;
+    color: crimson;
+    border-radius: 10%;
+}
+
+.btn-container-32 {
+    padding-top: 1.1%;
+    justify-content: center;
+    text-align: center;
+    height: 50px;
+    width: 150px;
+}
+
+.btn-container-28 {
+    height: 30px;
+    width: 150px;
+}

@@ -1,0 +1,43 @@
+.note {
+    width: fit-content;
+    height: fit-content;
+    min-width: 100px;
+    margin-top: 56px;
+    margin-left: 850px;
+    border: #5b9cff;
+    border-style: solid;
+}
+
+.note-header{
+    background-color: #5b9cff;
+    display: inline-flex;
+    width: 100%;
+    float: right;
+    height: fit-content;
+}
+
+.note-content{
+    display: inline-block;
+    width: 100%;
+    background-color: #e6e6e6;
+}
+
+.note-title {
+    text-align: center;
+    margin: auto;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+.note-title-completed-true {
+    color: #ffffff;
+}
+
+.note-title-completed-false {
+    color: #ffffff;
+}
+
+.completed-box{
+    width: 18px;
+    height: 18px;
+}

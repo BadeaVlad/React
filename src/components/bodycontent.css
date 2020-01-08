@@ -1,0 +1,13 @@
+.bodymain {
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 40px
+}
+
+.link-button:focus,
+.link-button:hover {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: none!important
+}
+
